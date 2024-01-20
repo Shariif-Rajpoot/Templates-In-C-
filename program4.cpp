@@ -18,7 +18,7 @@ void Test<t>::display()
 {
     cout << "You entered " << data << endl;
 }
-// templates and function overloading at same time
+// templates and function overloading at same scope
 float add(float x, float y)
 {
     cout << "I am func(real)" << endl;

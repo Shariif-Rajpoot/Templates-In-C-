@@ -1,0 +1,5 @@
+Template ==> class -> object
+Why we use template(parameterized classes)?
+Answer ==> for generic programming and to don't violate the rule of DRY(Don't repeat your self). 
+Syntax ==> template<class T(variable name whatever you want)>
+For more info see the code files.
